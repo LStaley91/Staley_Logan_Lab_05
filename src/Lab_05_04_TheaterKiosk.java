@@ -8,10 +8,7 @@ public class Lab_05_04_TheaterKiosk
         {
             System.out.println("Here is awrist band");
         }
-        else
-        {
-            System.out.println("You are to Young, You need to be 21 or older.");
-        }
+
 
     }
 }
